@@ -3,8 +3,8 @@
 [![Aplicação ao Vivo](https://img.shields.io/badge/App_ao_Vivo-Acessar_Sistema-e11d48?style=for-the-badge)](https://SEU-LINK-AQUI.onrender.com)
 [![API Docs](https://img.shields.io/badge/FastAPI-Swagger_Docs-10b981?style=for-the-badge)](https://SEU-LINK-AQUI.onrender.com/docs)
 
-* **🌐 Aplicação Web ao Vivo:** `https://SEU-LINK-AQUI.onrender.com` *(em deploy)*
-* **⚡ Documentação Interativa da API (Swagger):** `https://SEU-LINK-AQUI.onrender.com/docs`
+* **🌐 Aplicação Web ao Vivo:** `https://diegoschneider.pythonanywhere.com` *(em deploy)*
+* **⚡ Documentação Interativa da API (Swagger):** `https://https://diegoschneider.pythonanywhere.com.onrender.com/docs`
 
 Sistema full-stack de auditoria automatizada para catálogos de delivery e marketplaces. Combina **Visão Computacional (`Gemini Vision`)**, **validação estrita de contrato JSON (`Pydantic Structured Outputs`)** e **API REST (`FastAPI`)** com interface web responsiva para diagnosticar qualidade fotográfica, detectar divergências entre foto e texto e reescrever anúncios para maior conversão.
 
